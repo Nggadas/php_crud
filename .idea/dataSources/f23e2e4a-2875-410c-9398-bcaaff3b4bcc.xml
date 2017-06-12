@@ -20,11 +20,11 @@
     </column>
     <column id="10" parent="7" name="title">
       <Position>2</Position>
-      <DataType>varchar(20)|0</DataType>
+      <DataType>varchar(50)|0</DataType>
     </column>
     <column id="11" parent="7" name="category">
       <Position>3</Position>
-      <DataType>varchar(20)|0</DataType>
+      <DataType>varchar(50)|0</DataType>
     </column>
     <key id="12" parent="7" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
